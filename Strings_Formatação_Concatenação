@@ -153,12 +153,4 @@ Aqui vão alguns desafios com strings:
     
 4. Criar um sistema de cadastro formatado com nome, CPF, idade, etc.
     
-5. Formatador de mensagem de boas-vindas## Mensagens
-  Delimitador para mensagens são as: '' (aspas simples na maioria dos casos) ou "" (aspas duplas).
-  Para mostrar uma mensagem a palavra dedicada é "print"
-  As funções são definidas por: () (isso signifca que ele vai executar o que está dentro dos parêntesis)
-  O print soma as mensagens:
-    print('Pedro é' + 'Lindo!')
-  O print não soma mensagens com números, apresentará um erro:
-    print('Olá!' + 5) = error!
-    print('Olá!' , 5) = Olá! 5 (em alguns casos se usa + pra somar strings/mensagens mas pra somar mensagens com números usa-se ,)
+5. Formatador de mensagem de boas-vindas
